@@ -1,0 +1,17 @@
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Backup files
+*~
+
+# Linux system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Screenshots cache
+screenshots/*.tmp
